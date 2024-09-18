@@ -2,6 +2,19 @@
 
 A new Flutter project.
 
+ * Instructions on how to run the app:
+1/ Clone the app first: git clone https://github.com/feriel751/nextData.git
+and navigate to the project directory: cd <project_directory> 
+2/ Secondly run the command : flutter put get
+3/ Thirdly run the command :  flutter run 
+
+
+
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
